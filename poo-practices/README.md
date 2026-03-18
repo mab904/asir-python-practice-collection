@@ -5,8 +5,8 @@ This directory contains a collection of small projects created to practice and d
 
 ### Library Management System 📚
 A simple model of a library using two classes:
-Book —> Represents a book with a title and an author.
-Library —> Stores a collection of books and provides methods to add and display them.
+- Book —> Represents a book with a title and an author.
+- Library —> Stores a collection of books and provides methods to add and display them.
 
 ### Car Dealership System 🚗
 A small system that simulates a car dealership with different types of cars:
@@ -14,14 +14,8 @@ A small system that simulates a car dealership with different types of cars:
 - ElectricCar —> Inherits from Car and adds battery range.
 - Dealership —> Stores cars, lists them, and allows searching by brand.
 
-
-
-
-
-
-
 ### School Managment System (Modules, Students, Class) 🏫
-A more complete exercise that models a simple academic environment:
-Module —> Represents a subject with grades and convocations.
-Student —> Holds a list of modules and calculates grade averages.
-Class —> Groups students and assigns grades to specific modules.
+A more complete exercise that models a simple school environment:
+- Module —> Represents a subject with grades and convocations.
+- Student —> Holds a list of modules and calculates grade averages.
+- Class —> Groups students and assigns grades to specific modules.
